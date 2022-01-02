@@ -1,0 +1,19 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.main{
+    height: 100vh;
+    margin-top: 2.8rem;
+}
+
+h1{
+    color: #222;
+}
